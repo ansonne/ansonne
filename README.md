@@ -61,7 +61,7 @@
 
 ### Background
 
-**B.Eng. Mechatronics** from Universidade Federal de Santa Catarina (UFSC)  
+**B.Eng. Control and Automation** from Universidade Federal de Santa Catarina (UFSC)  
 **Exchange Student** at RWTH Aachen University, Germany  
 **Research Intern** at Fraunhofer IPT — Manufacturing automation and CNC optimization
 
