@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer</strong> with 4+ years building fullstack systems, data pipelines, and AI-powered applications.<br/>
+  <strong>Software Engineer</strong> with 5+ years building fullstack systems, data pipelines, and AI-powered applications.<br/>
   Focused on cloud-native AWS architectures, distributed workflows, and intelligent automation.
 </p>
 
